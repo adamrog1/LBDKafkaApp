@@ -1,0 +1,13 @@
+package com.example.lbdkafkaapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LbdKafkaAppApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
